@@ -1,4 +1,4 @@
-# Protege+ — SOA e Web Services
+# Alethos — SOA e Web Services
 
 
 ## Grupo
